@@ -1,0 +1,6 @@
+{
+  "name": "suicide-prevention-cld",
+  "description": "Автономное научное веб-приложение системно-динамических исследований и каузального моделирования (CLD) превенции суицидов (ГомГМУ, ГОКПБ, БелЖД, 2024–2025 гг.).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
